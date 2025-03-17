@@ -115,7 +115,7 @@ body {
     font-weight: 400;
 }
 
-/* Estilos para o container do sorteio */
+
 .container {
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
@@ -172,7 +172,7 @@ body {
     margin: 0 5px;
 }
 
-/* Estilos responsivos */
+
 @media (max-width: 600px) {
     .container {
         width: 100%;

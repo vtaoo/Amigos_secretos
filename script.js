@@ -1,6 +1,5 @@
 let nomes = [];
 
-// Carrega os nomes salvos no localStorage ao iniciar
 window.onload = function () {
     if (localStorage.getItem("nomes")) {
         nomes = JSON.parse(localStorage.getItem("nomes"));
